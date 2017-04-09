@@ -1,0 +1,15 @@
+new repo   MachineLearnig
+ÅäÖÃÓÃ»§Ãû£ºgit config --global user.name "xuweiling"
+ÅäÖÃÓÊÏä£º git config --global user.email "welinxu@gmail.com"
+ÅäÖÃÃØÔ¿£º ssh-keygen -t rsa -C "welinxu@gmail.com"
+¿ËÂ¡git clone https://github.com/xuweiling/MachineLearning.git
+
+
+//git pull
+
+
+1.# git add .
+
+2.# git commit -m "asdas"
+
+3.# git push
